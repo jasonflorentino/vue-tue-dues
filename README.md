@@ -1,4 +1,4 @@
-# test-project
+# Vue Tue-Dues
 
 ## Project setup
 ```
